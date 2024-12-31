@@ -1,4 +1,4 @@
-	- Oracle 서버와 통신할 경우를 생각해 ojdbc6.jar를 import했다.
+- Oracle 서버와 통신할 경우를 생각해 ojdbc6.jar를 import했다.
 
 - HikariCP와 DB 연동용 프레임워크 MyBatis를 추가했다.
 
